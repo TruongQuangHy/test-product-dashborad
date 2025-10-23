@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "MacBook Air",
+    "price": 1199,
+    "status": "available",
+    "image": "https://www.apple.com/newsroom/images/2025/03/apple-introduces-the-new-macbook-air-with-the-m4-chip-and-a-sky-blue-color/tile/Apple-MacBook-Air-hero-250305-lp.jpg.landing-big_2x.jpg"
+  },
+  {
+    "id": 2,
+    "name": "iPhone 15 Pro",
+    "price": 999,
+    "status": "available",
+    "image": "https://www.apple.com/newsroom/images/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/tile/Apple-iPhone-15-Pro-lineup-hero-230912.jpg.landing-big_2x.jpg"
+  },
+  {
+    "id": 3,
+    "name": "iPad Pro",
+    "price": 799,
+    "status": "out_of_stock",
+    "image": "https://www.apple.com/newsroom/images/2024/05/apple-unveils-stunning-new-ipad-pro-with-m4-chip-and-apple-pencil-pro/article/Apple-iPad-Pro-thin-profile-240507_big.jpg.large.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Apple Watch Series 9",
+    "price": 399,
+    "status": "available",
+    "image": "https://www.apple.com/newsroom/images/2023/09/apple-introduces-the-advanced-new-apple-watch-series-9/tile/Apple-Watch-S9-hero-230912.jpg.landing-big_2x.jpg"
+  },
+  {
+    "id": 5,
+    "name": "AirPods Pro",
+    "price": 249,
+    "status": "available",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-pro-3-hero-select-202509_FMT_WHH?.v=1758077264181&fmt=jpeg&hei=636&qlt=90&wid=752"
+  },
+  {
+    "id": 6,
+    "name": "Mac Mini",
+    "price": 699,
+    "status": "out_of_stock",
+    "image": "https://www.apple.com/newsroom/images/product/mac/standard/Apple-Mac-mini-M2-and-M2-Pro-hero-230117_big.jpg.large.jpg"
+  },
+  {
+    "id": 7,
+    "name": "HomePod",
+    "price": 299,
+    "status": "available",
+    "image": "https://www.apple.com/newsroom/images/product/homepod/lifestyle/Apple-HomePod-hero-230118.jpg.landing-big_2x.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Magic Keyboard",
+    "price": 149,
+    "status": "available",
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/MXCL3?.v=1728939673942&fmt=jpeg&hei=4000&qlt=90&wid=4000"
+  }
+]
